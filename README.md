@@ -1,4 +1,4 @@
-# Hey, I'm Jonah 👋
+# Hey, I'm Jonah
 
 ## I am...
 🗾 Based in Kamakura, Japan  
