@@ -1,9 +1,9 @@
 # Hey, I'm Jonah
 
 ## I am...
-🗾 Based in Kamakura, Japan  
-💼 Working as a Digital Marketing Consultant  
-🌱 Learning Full Stack Web Development  
+- 🗾 Based in Kamakura, Japan  
+- 💼 Working as a Digital Marketing Consultant  
+- 🌱 Learning Full Stack Web Development  
 
 ## and I'm currently...
 - 🎯 Helping clients with GA4, Looker Studio, and GTM
