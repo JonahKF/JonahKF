@@ -2,7 +2,7 @@
 
 I'm a data analyst based in Kamakura, Japan.
 
-In my free time, I'm learning React and Node.js, as well as learning more about Python and SQL. <br />
+In my free time, I'm learning React and Node.js, as well as learning more about Python and SQL. <br/>
 I also like building computers, and have recently been playing with Arch Linux.
 
 よろしく！
